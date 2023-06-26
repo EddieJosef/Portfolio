@@ -2,6 +2,9 @@
 
 This is my portfolio on GitHub, showcasing various projects in the fields of data science, neural networks, web development, game development, and Python scripting/desktop applications.
 
+To contact me, please email me at [edjosef96@gmail.com](mailto:edjosef96@gmail.com).
+
+
 ## Data Science and Neural Networks Models
 
 - [Predicting-house-prices](https://github.com/EddieJosef/Predicting-house-prices)
